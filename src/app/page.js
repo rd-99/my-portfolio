@@ -67,13 +67,13 @@ export default function Home() {
             </h2>
             <h3 className="text-2xl py-2">Developer</h3>
             <p className="text-md py-5 leading-8 text-gray-500">
-              I'm a passionate and results-driven Full-Stack Engineer with a
+              I am a passionate and results-driven Full-Stack Engineer with a
               focus on backend development. <br></br>My tech stack includes
               Node.js for robust server-side logic, React for creating seamless
               user interfaces,
-              <br></br> and I'm well-versed in C++ and Go for versatile
+              <br></br> and I am well-versed in C++ and Go for versatile
               programming solutions.<br></br>
-              Explore my portfolio to discover the exciting projects I've been a
+              Explore my portfolio to discover the exciting projects I have been a
               part of, and feel free to reach out for collaboration or further
               discussions.
             </p>
